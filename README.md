@@ -1,0 +1,2 @@
+# SmoliTrade-App
+SmoliTrade-App 
